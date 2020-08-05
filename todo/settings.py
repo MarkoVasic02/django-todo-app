@@ -25,7 +25,7 @@ SECRET_KEY = 'djyyz@f55p8*kpym5q^&*ewpygr-6qwxd--1q%6h8*gu28ctfs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['markovasic.pythonanywhere.com']
 
 
 # Application definition
